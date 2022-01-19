@@ -1,0 +1,12 @@
+{
+    "Capital" : 1000000,
+    "CapitalAllocation" : 50,
+    "Portfolio" : 50,
+    "MaxPortfolio" : 4,
+    "OCAGroupInside" : 5,
+    "OCAGroups" : 6,
+    "MinLeverag" : 7,
+    "MaxLeverage" : 8,
+    "MinDecimal" : 9,
+    "SignalServer" : 10
+}
